@@ -1,6 +1,6 @@
 Project Summary: This project can store items that are made and some infomaton that goes along with it. The idea was to build a app that could store the data about an item for price tracking.  
 
-Includes: Node, Express, MongoDB 
+tech stack: Node, Express, MongoDB 
 
  
 
